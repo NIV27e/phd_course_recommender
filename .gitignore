@@ -1,0 +1,39 @@
+# Virtual environment
+venv/
+.env
+
+# Python specific
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.python-version
+
+# Django specific
+db.sqlite3
+media/
+staticfiles/
+local_settings.py
+
+# Node specific
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React specific
+build/
+
+# VS Code specific
+.vscode/
+.history/
+
+# MacOS specific
+.DS_Store
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Logs
+*.log
