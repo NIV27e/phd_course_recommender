@@ -1,0 +1,8 @@
+django
+djangorestframework
+beautifulsoup4
+requests
+pandas
+scikit-learn
+lxml
+numpy
